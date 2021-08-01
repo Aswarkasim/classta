@@ -1,0 +1,2 @@
+<a href="<?= base_url('siswa/modul'); ?>" class="btn btn-secondary my-2"><i class="fa fa-arrow-left"></i> Kembali</a>
+<iframe src="<?= base_url($modul->file_modul) ?>" width="100%" height="700px" frameborder="0"></iframe>
