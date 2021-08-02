@@ -25,3 +25,10 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+
+/*
+u8939991_kelasta
+W4c{K#;]^.Vn
+
+*/
